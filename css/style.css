@@ -210,4 +210,8 @@ body {
     .instacat-continue{
         width: 100%;
     }
+
+    .links-in-line{
+        display: none;
+    }
 }
