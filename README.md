@@ -5,8 +5,6 @@ ____
 ### Descrição
  - Nesse projeto foi proposto o desafio de reconstruir a página de login do Instagram. Para isso,foi recomendado o uso de CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. Além disso, a expert Gabriela Pinheiro disponibiliza todo o material necessário em seu GitHub para que você possa utilizá-lo como referência para a sua solução.
 
-modifica
-
 ![Instacat página de login telas grandes](/img/instacat-print.png)
 ![Instacat página de login footer](/img/instacat-print-3.png)
 
