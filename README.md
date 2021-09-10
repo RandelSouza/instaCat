@@ -10,6 +10,6 @@ modifica
 ![Instacat página de login telas grandes](/img/instacat-print.png)
 ![Instacat página de login footer](/img/instacat-print-3.png)
 
-<p style="align: center;">
+<p style="text-align: center;">
 <img  src="/img/instacat-print-2.png" alt="Instacat página de login telas pequenas">
 </p>
